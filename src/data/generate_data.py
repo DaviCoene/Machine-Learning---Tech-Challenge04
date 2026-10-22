@@ -13,7 +13,7 @@ REFERENCE_DIR = PROJECT_ROOT / "data" / "reference"
 PRODUCTION_DIR = PROJECT_ROOT / "data" / "production"
 INVALID_DIR = PROJECT_ROOT / "data" / "invalid"
 
-RANDOM_STATE = 42
+RANDOM_STATE = 666
 TEST_SIZE = 0.30
 
 
